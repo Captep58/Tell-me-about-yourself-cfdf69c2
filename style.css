@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+}
+input {
+	border-radius: 30px;
+	font-size: 15
+}
+div {
+	color: blue;
+}
+strong {
+	color: green;
+}
+h1 {
+	color: white;
+}
