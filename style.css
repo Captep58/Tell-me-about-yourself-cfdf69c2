@@ -1,5 +1,5 @@
 body {
-	background-color: black;
+	background-color: white;
 }
 input {
 	border-radius: 30px;
@@ -12,5 +12,18 @@ strong {
 	color: green;
 }
 h1 {
-	color: white;
+	color: black;
+}
+h3 {
+	color: green;
+}
+textarea {
+	border: solid red;
+	font-size: 1rem;
+	letter-spacing: 1px
+}
+
+.red-input:focus {
+	border: solid green;
+	
 }
